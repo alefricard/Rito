@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rito</string>
+    <string name="salva_tarefa">Salva tarefa</string>
+    <string name="desc_da_tarefa">Descrição da tarefa</string>
+    <string name="titulo_da_tarefa">Titulo da tarefa</string>
+    <string name="erroCampoVazio">Por favor, preencher campo</string>
+    <string name="EXTRA_NEW_TASK">EXTRA_NEW_TASK</string>
+    <string name="noTask">Não existe tarefa!</string>
+</resources>
